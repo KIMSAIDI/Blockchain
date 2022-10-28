@@ -1,5 +1,5 @@
 # Blockchain
-Création d'une blockchain appliquée à un processeur éléctoral
+Création d'une blockchain appliquée à un processeur électoral
 
 Ce projet se constitue de cinq grande parties :
 
