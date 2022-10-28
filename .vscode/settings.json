@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "partie4.h": "c",
+        "sha.h": "c",
+        "partie5.h": "c",
+        "ex9.C": "cpp",
+        "partie1.h": "c"
+    }
+}

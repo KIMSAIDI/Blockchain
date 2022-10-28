@@ -1,0 +1,14 @@
+Author : (d1,559)
+Valeur hachee du bloc : 000db95b44a7fe1d87b0fd069190727bf919ccaffd7645c699c9b136a05de154
+Valeur hachee du bloc precedent : 0006aedd3c27ecf8acfcc40fbb1d73cbe95720b60933967602a26d4af21caf4c
+Preuve : 7004
+(d1,559) (25,1d5) #5f#40a#2bb#4f3#12f#35d#2bb#28e#
+(d1,559) (3ef,46d) #5f#d6#53f#47e#4f3#18#185#35d#28e#
+(d1,559) (199,319) #5f#12f#2d1#2d1#4f3#d6#12f#2d1#28e#
+(d1,559) (345,5e9) #5f#d6#18#2bb#4f3#2bb#53f#2d1#28e#
+(d1,559) (25,1d5) #5f#40a#2bb#4f3#12f#35d#2bb#28e#
+(d1,559) (25,1d5) #5f#40a#2bb#4f3#12f#35d#2bb#28e#
+(d1,559) (25,1d5) #5f#40a#2bb#4f3#12f#35d#2bb#28e#
+(d1,559) (57b,797) #5f#2bb#318#536#4f3#318#2d1#318#28e#
+(d1,559) (3ef,46d) #5f#d6#53f#47e#4f3#18#185#35d#28e#
+(d1,559) (25,1d5) #5f#40a#2bb#4f3#12f#35d#2bb#28e#
