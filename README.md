@@ -12,4 +12,4 @@ Ce projet se constitue de cinq grande parties :
 
 L’objectif de ce projet est donc de proposer une piste de réflexion sur les protocoles et sur les structures de données à mettre en place pour permettre d’implémenter efficacement le processus de désignation du vainqueur de l’élection, tout en garantissant l’intégrité, la sécurité et la transparence de l’élection.
 
-NB : Ce projet ne fonctionne pas sur la dernière partie au niveau de la blockhaine. Tout le reste fonctionne.
+NB : Ce projet ne fonctionne pas sur la dernière partie au niveau de la Blockchain. Tout le reste fonctionne.
